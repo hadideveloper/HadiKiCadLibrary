@@ -1,0 +1,2 @@
+# HadiKiCadLibrary
+KiCad Library
