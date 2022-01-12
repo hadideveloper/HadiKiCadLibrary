@@ -1,6 +1,6 @@
 (footprint "Hole_M1.6" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61DE6AAE)
+  (tedit 61DE6CAA)
   (attr through_hole)
   (fp_text reference "REF**" (at -0.1 -4.3 unlocked) (layer "F.SilkS") hide
     (effects (font (size 1 1) (thickness 0.15)))
