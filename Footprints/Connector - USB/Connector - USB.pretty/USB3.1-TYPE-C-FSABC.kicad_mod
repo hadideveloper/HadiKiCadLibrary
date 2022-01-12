@@ -1,6 +1,6 @@
 (footprint "USB3.1-TYPE-C-FSABC" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61CC28DB)
+  (tedit 61DEAC3C)
   (attr through_hole)
   (fp_text reference "REF**" (at -6.1 -7.7 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -58,4 +58,9 @@
   (pad "S1" thru_hole roundrect (at -4.5 -4.5) (size 1.1 1.7) (drill oval 0.5 1.1) (layers *.Cu *.Mask) (roundrect_rratio 0.2) (tstamp f3749464-3429-4e5d-8e9e-7776a190bf7c))
   (pad "S2" thru_hole roundrect (at 4.5 -4.5) (size 1.1 1.7) (drill oval 0.5 1.1) (layers *.Cu *.Mask) (roundrect_rratio 0.2) (tstamp 97c3dd92-a207-4078-9546-dd9a0d177665))
   (pad "S2" thru_hole oval (at 6.075 1.15) (size 1 2) (drill oval 0.5 1.5) (layers *.Cu *.Mask) (tstamp fd96f853-b86f-4839-b405-9056fd204602))
+  (model "C:/Users/hadi_/Documents/Projects/hadideveloper/OpenSource/HadiKiCadLibrary/3D Bodies/Connector - USB/USB3.1-TYPE-C-FSABC.STEP"
+    (offset (xyz -99.34 -83.85 -0.2))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
