@@ -7,4 +7,6 @@ Almost like how you add symbols libraries, On the KiCad main window, Go to 'Pref
 
 ## Add 3D bodies
 on KiCad main window, Go to 'Prefrences' -> 'Configure Paths' and add a new path to the list. Set the name to 'KICAD_USER' and the value should be THE PATH ON YOUR COMPUTER WHERE YOU CLONE THE REPO\HadiKiCadLibrary\3D Bodies
+![image](https://user-images.githubusercontent.com/1774020/164874946-1ad67eda-6772-4656-b8d5-a61520298114.png)
+
 
