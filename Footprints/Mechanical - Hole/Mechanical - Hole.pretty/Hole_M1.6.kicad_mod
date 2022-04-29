@@ -2,18 +2,18 @@
   (layer "F.Cu")
   (tedit 61DE6CAA)
   (attr through_hole)
-  (fp_text reference "REF**" (at -0.1 -4.3 unlocked) (layer "F.SilkS") hide
+  (fp_text reference "REF**" (at 0 -2.55 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 2c6cb2d7-5f16-47e0-a74f-2af92afff58d)
   )
-  (fp_text value "Hole_M1.6" (at 0 1 unlocked) (layer "F.Fab") hide
+  (fp_text value "Hole_M1.6" (at 0 2.8 unlocked) (layer "F.Fab")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 45b9ad65-47a5-4b6f-a59a-58ac265e32ff)
   )
-  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
+  (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
     (effects (font (size 1 1) (thickness 0.15)))
-    (tstamp b4f1a5b7-6154-4567-9ecf-87e6abf75816)
+    (tstamp 3f2f0c3e-4067-46f7-830c-d904881c7db7)
   )
-  (pad "" np_thru_hole circle (at 0 0) (size 3 3) (drill 2) (layers F&B.Cu *.Mask)
+  (pad "" np_thru_hole circle (at 0 0) (size 3 3) (drill 1.6) (layers F&B.Cu *.Mask)
     (solder_mask_margin 0.2) (clearance 0.2) (tstamp b005e234-fb08-4ae7-86ba-e8f5d8c2c62f))
 )
